@@ -1,0 +1,15 @@
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\bin\Debug\net6.0\GenericsExercises.exe
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\bin\Debug\net6.0\GenericsExercises.deps.json
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\bin\Debug\net6.0\GenericsExercises.runtimeconfig.json
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\bin\Debug\net6.0\GenericsExercises.dll
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\bin\Debug\net6.0\GenericsExercises.pdb
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\obj\Debug\net6.0\GenericsExercises.csproj.AssemblyReference.cache
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\obj\Debug\net6.0\GenericsExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\obj\Debug\net6.0\GenericsExercises.AssemblyInfoInputs.cache
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\obj\Debug\net6.0\GenericsExercises.AssemblyInfo.cs
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\obj\Debug\net6.0\GenericsExercises.csproj.CoreCompileInputs.cache
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\obj\Debug\net6.0\GenericsExercises.dll
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\obj\Debug\net6.0\refint\GenericsExercises.dll
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\obj\Debug\net6.0\GenericsExercises.pdb
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\obj\Debug\net6.0\GenericsExercises.genruntimeconfig.cache
+C:\Users\idragan\RiderProjects\Generics\GenericsExercises\obj\Debug\net6.0\ref\GenericsExercises.dll
